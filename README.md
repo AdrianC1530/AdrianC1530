@@ -78,6 +78,10 @@ Inventario, ventas y apartados con abonos para una tienda de ropa. Funciona sin 
 
 </details>
 
+## Actividad
+
+![Mis contribuciones del último año en GitHub, dibujadas como una matriz de puntos](assets/contribuciones.svg)
+
 ## Hablemos
 
 ¿Tiene un sistema en mente? Cuénteme qué necesita y le respondo con un plan claro.
