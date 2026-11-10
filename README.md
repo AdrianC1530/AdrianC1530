@@ -6,7 +6,7 @@ Soy Adrián, ingeniero en TI y desarrollador full-stack. Hago sistemas a medida 
 
 <sub>IT engineer and full-stack developer. I build custom systems for businesses: electronic invoicing, bookings, inventory and IoT.</sub>
 
-**[Ver mi trabajo en adriancarrillo.vercel.app][sitio]**
+**[Ver mi trabajo en adriancarrillo.dev][sitio]**
 
 ## Ahora
 
@@ -78,26 +78,19 @@ Inventario, ventas y apartados con abonos para una tienda de ropa. Funciona sin 
 
 </details>
 
-## Actividad
-
-![Mis contribuciones del último año en GitHub, dibujadas como una matriz de puntos](assets/contribuciones.svg)
-
 ## Hablemos
 
 ¿Tiene un sistema en mente? Cuénteme qué necesita y le respondo con un plan claro.
 
 **[Escríbame por WhatsApp][whatsapp]** &nbsp;·&nbsp; [danilocarrillo1515@gmail.com][correo] &nbsp;·&nbsp; [LinkedIn][linkedin]
 
-<!--
-  Todas las direcciones están aquí abajo. Al comprar el dominio propio,
-  basta con reemplazar «adriancarrillo.vercel.app» en este bloque y en el texto del enlace de arriba.
--->
+<!-- Todas las direcciones están en este bloque. -->
 
-[sitio]: https://adriancarrillo.vercel.app
-[caso-sri]: https://adriancarrillo.vercel.app/proyectos/facturador-sri/
-[caso-taxibocarchi]: https://adriancarrillo.vercel.app/proyectos/taxibocarchi/
-[caso-aurum]: https://adriancarrillo.vercel.app/proyectos/aurum-vip-club/
-[caso-tienda]: https://adriancarrillo.vercel.app/proyectos/sistema-tienda/
+[sitio]: https://adriancarrillo.dev
+[caso-sri]: https://adriancarrillo.dev/proyectos/facturador-sri/
+[caso-taxibocarchi]: https://adriancarrillo.dev/proyectos/taxibocarchi/
+[caso-aurum]: https://adriancarrillo.dev/proyectos/aurum-vip-club/
+[caso-tienda]: https://adriancarrillo.dev/proyectos/sistema-tienda/
 [whatsapp]: https://wa.me/593994687341?text=Hola%20Adri%C3%A1n%2C%20vi%20su%20perfil%20de%20GitHub%20y%20quisiera%20hablar%20de%20un%20proyecto.
 [correo]: mailto:danilocarrillo1515@gmail.com
 [linkedin]: https://www.linkedin.com/in/adrian-carrillo-33a75a394/
