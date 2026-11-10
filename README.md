@@ -78,6 +78,34 @@ Inventario, ventas y apartados con abonos para una tienda de ropa. Funciona sin 
 
 </details>
 
+## Actividad
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+![Número de contribuciones en el último año](assets/actividad-contribuciones.svg)
+
+Contribuciones en el último año
+
+</td>
+<td width="33%" valign="top">
+
+![Número de días con actividad en el último año](assets/actividad-dias.svg)
+
+Días activos en el último año
+
+</td>
+<td width="33%" valign="top">
+
+![Mi racha más larga, en días seguidos](assets/actividad-racha.svg)
+
+Días de mi racha más larga
+
+</td>
+</tr>
+</table>
+
 ## Hablemos
 
 ¿Tiene un sistema en mente? Cuénteme qué necesita y le respondo con un plan claro.
